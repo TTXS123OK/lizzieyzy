@@ -1,5 +1,5 @@
 # LizzieYzy - 围棋引擎界面(中文,[English](#en),[日本語](http://translate.google.com/translate?sl=ja&tl=ja&u=https%3A%2F%2Fgithub.com%2Fyzyray%2Flizzieyzy%2Fblob%2Fmain%2FREADME_EN.md),[한국어](http://translate.google.com/translate?sl=en&tl=ko&u=https%3A%2F%2Fgithub.com%2Fyzyray%2Flizzieyzy%2Fblob%2Fmain%2FREADME_EN.md))
-![screenshot](/screenshot.png?raw=true)
+![screenshot](/readme_bak/screenshot.png?raw=true)
 
 LizzieYzy 是一个引擎界面,修改自[Lizzie](https://github.com/featurecat/lizzie),可加载围棋引擎:[Katago](https://github.com/lightvector/KataGo)、[LeelaZero](https://github.com/leela-zero/leela-zero)、[Leela](https://github.com/gcp/Leela)、[ZenGTP](https://github.com/yzyray/ZenGTP)、[SAI](http://sai.unich.it)、[Pachi](https://github.com/pasky/pachi)以及其他标准GTP引擎。
 
@@ -33,7 +33,7 @@ LizzieYzy 是一个引擎界面,修改自[Lizzie](https://github.com/featurecat/
 #
 <span id="en"></span>
 # LizzieYzy - GUI for Game of Go
-![screenshot_en](/screenshot_en.png?raw=true)
+![screenshot_en](/readme_bak/screenshot_en.png?raw=true)
 
 LizzieYzy is a graphical interface modified from [Lizzie](https://github.com/featurecat/lizzie),allow loading various engines like: [Katago](https://github.com/lightvector/KataGo)、[LeelaZero](https://github.com/leela-zero/leela-zero)、[Leela](https://github.com/gcp/Leela)、[ZenGTP](https://github.com/yzyray/ZenGTP)、[SAI](http://sai.unich.it)、[Pachi](https://github.com/pasky/pachi) or other GTP engines.
 
